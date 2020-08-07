@@ -1,10 +1,10 @@
-# SortTheBoxes
+# SortTheBoxes (3D, Android)
 ## Description
 ...
 
 You can find all of the raw scripts in folders section.
 # Visuals
-Base of visuals in this game were provided from various websites and altered to put in the game.
+Visuals in this game were designed by a 3D Artist named Kaan Dinçer.
 Here are some visuals of the game;
 
 ## Installation
