@@ -1,6 +1,6 @@
 # SortTheBoxes (3D, Android)
 ## Description
-It's a hyper-casual game project which you try to push relevant boxes to it's palette. There are two palettes, two box pushing machines and three boxes. Palettes want specific boxes for themselves. Our goal is to push correct boxes to a correct palette in given time.
+It's a hyper-casual game project which you try to push relevant boxes to it's palette. There are two palettes, two box pushing machines and three boxes. Palettes want specific boxes for themselves. Our goal is to push correct boxes to a correct palette in given time. Also we get score points for each correct box, penalty for each incorrect box.
 
 You can find all of the raw scripts in folders section.
 # Visuals
