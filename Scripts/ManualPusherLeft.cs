@@ -62,7 +62,7 @@ public class ManualPusherLeft : MonoBehaviour
 			//yield return new WaitForSeconds(0.5f);
 			yield return StartCoroutine(MoveObject(transform, pointA, pointB, 0.5f));
 			yield return StartCoroutine(MoveObject(transform, pointB, pointA, 0.5f));
-			//yield return new WaitForSeconds(1.0f);
+			yield return new WaitForSeconds(1.0f);
 			didItWork = false;
 		}
 	}
